@@ -20,6 +20,5 @@ dist_install_DATA = \
         Roboto-BlackItalic.ttf \
         Roboto-Bold.ttf \
         Roboto-BoldItalic.ttf \
-        Roboto-Bold.ttf \
         time.ttf \
         tiny.ttf
